@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: white;
+    background: #111113;
+}
+.tableCenter {
+    margin-left: 35%;
+}
+.Title {
+    background: #141464;
+}
+footer {
+    padding: 10px;
+    background: #141464;
+}
+header {
+    padding: 10px;
+    background: #141464;
+}
